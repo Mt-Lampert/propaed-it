@@ -1,3 +1,8 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
 title: "Propaedeutica IT"
+theme: "hugo-theme-learn"
+
+# For search functionality
+outputs:
+  home: ["HTML", "RSS", "JSON"]
