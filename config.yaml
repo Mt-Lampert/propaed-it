@@ -1,7 +1,10 @@
+---
 baseURL: "http://example.org/"
 languageCode: "en-us"
 title: "Propaedeutica IT"
 theme: "hugo-theme-learn"
+# Things we do not want to be part of the web site
+ignorefiles: [ "features/.*" ]
 
 # For search functionality
 outputs:
