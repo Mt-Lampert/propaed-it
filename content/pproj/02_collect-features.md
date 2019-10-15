@@ -1,6 +1,7 @@
 ---
 title: "Collect Features"
 date: 2019-10-12T11:41:16+02:00
+weight: 12
 draft: true
 ---
 
@@ -50,8 +51,7 @@ And this at last brings us to our **features** where we combine the aspects we f
 
 You get the idea. These are the features we have to collect. Write them down in a list.
 
-
-
+(added: 2019-10-09)
 
 
 

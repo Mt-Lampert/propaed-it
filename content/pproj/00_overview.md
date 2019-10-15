@@ -32,8 +32,9 @@ I just said we want to be pragmatic and professional about our projects. What do
 So what is it we have to do?
 
 
-0. Get the idea
-0. Collect the features
+0. [Get the idea](../01_get-the-idea)
+0. [Collect the features](../02_collect-features)
+0. [Put the features in order](../03_order-features)
 0. Describe the features
 0. Approach the features
 0. Implement the features
