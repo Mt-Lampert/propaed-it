@@ -34,7 +34,51 @@ At some point in the developing process you will have to decide about how the pr
 
 #### What is the value?
 
-The value of your project lies in what your users are missing / missing out without that thing you are building (And you already have a cool name for it, haven't you? And you know really well what audience you are targeting, don't you?). Walk a mile in their shoes (inside your head) and find out what they are really missing without your project. That's the value you can monetize.
+The value of your project lies in what your users are missing / missing out
+without that thing you are building (And you already have a cool name for it,
+haven't you? And you know really well what audience you are targeting, don't
+you?). Walk a mile in their shoes (inside your head) and find out what they are
+really missing without your project. That's the value you can monetize.
+
+## Example
+
+file: idea.md
+
+Project Name: **Task Master**
+
+#### What is the task manager all about?
+
+The Task Master is a nice little Web app to organize Tasks, projects and
+appointments. It's supposed to be fun, it's supposed to be colorful and it's
+supposed to be well-structured, highly usable and effective. We will be using
+labels, symbols, cards and a sophisticated routing system to achieve this
+goal. Task Master will follow the
+[Getting Things Done](https://gettingthingsdone.com/)
+paradigm of *David Allen*.
+
+#### Who owns the project?
+
+The Task Master is intellectual, economical and legal property of *Creative
+Buddies Inc.* All responsibility follows the business rule of this
+organisation.
+
+#### What audience is Task Master targeting?
+
+Task Master is targeting people who haven't spent much time and effort for
+self organizing so far, that means an audience of 18 -- 30 years of age.
+People who want to achieve something in life and who want to do what they have
+to do more efficiently in order to gain more time for the things they want to
+do.
+
+#### What is the Value of Task Master?
+
+The value of Task Master lies in gaining instead of losing time,
+it helps finding the rightthing to do instead of not knowing what to do next,
+it gives the feeling of being professional, productive and profitable
+while having significant "toy value" to play around with the card elements,
+colors, fonts, backgrounds and gadgets.
+
+
 
 
 (added: 2019-10-09)
