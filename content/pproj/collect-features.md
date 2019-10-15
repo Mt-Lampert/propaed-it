@@ -5,7 +5,9 @@ draft: true
 ---
 
 
-Collecting Features begins with collecting **Aspects** of the project you want to build. Let's do it using the inevitable example of building a task manager. Let's say a good task manager has the following aspects:
+After getting the Idea, collecting Features begins with collecting **Aspects**
+of the project you want to build. Let's do it using our Task Master and let's
+say the Task Master has the following aspects:
 
 * "Dashboard"
 * "Checklists"
@@ -34,16 +36,19 @@ And this at last brings us to our **features** where we combine the aspects we f
 * "Tidying up Dashboard"
 * "Creating a Checklist"
 * "Displaying a Checklist"
+* "Listing various Checklists"
 * "Updating a Checklist"
 * "Deleting a Checklist"
 * "Creating an Assignment"
 * "Displaying an Assignment"
-* "Listing Assignments"
+* "Listing various Assignments"
 * "Updating an Assignment"
 * "Deleting an Assignment"
+* "Creating a Message"
+* "Displaying a Message"
 * ... 
 
-You get the idea. These are the features we have to collect.
+You get the idea. These are the features we have to collect. Write them down in a list.
 
 
 

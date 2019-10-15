@@ -72,11 +72,11 @@ do.
 
 #### What is the Value of Task Master?
 
-The value of Task Master lies in gaining instead of losing time,
-it helps finding the rightthing to do instead of not knowing what to do next,
-it gives the feeling of being professional, productive and profitable
-while having significant "toy value" to play around with the card elements,
-colors, fonts, backgrounds and gadgets.
+The value of Task Master lies in gaining time instead of losing time, it helps
+finding the rightthing to do instead of not knowing what to do next, it gives
+the feeling of being professional, productive and profitable. At first encounter
+the greatest value is Task Master's significant "toy value". Playing around with
+the card elements, colors, fonts, backgrounds and gadgets.
 
 
 
