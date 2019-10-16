@@ -9,3 +9,6 @@ ignorefiles: [ "features/.*" ]
 # For search functionality
 outputs:
   home: ["HTML", "RSS", "JSON"]
+# For adjusted styling
+params:
+  themeVariant: green
