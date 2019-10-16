@@ -45,27 +45,28 @@ order for those aspects:
 * "Listing Messages"
 * "Listing Urgent Stuff"
 
-Are we finished? Not quite. We have a list of aspects and a few features. What
-we need however, is a well-ordered list of features. So, let's re-write our
-temporary list.  To list assignments, projects and messages, we have to create
-them. To display a landing page, a dashboard and a login, we have to create
-them. So after a little rethinking, this is what I came up with as my final
-list of features (for now):
+Are we finished? Not quite. We have a list of aspects and a few feature names.
+What we need however, is a well-ordered list of feature names. So, let's
+re-write our temporary list.  To list assignments, projects and messages, we
+have to create them. To display a landing page, a dashboard and a login, we
+have to create them. So after a little rethinking, this is what I came up with
+as my final list of features (for now):
 
 * "Displaying Landing Page"
 * "Creating a User (Signup)"
 * "Displaying the Login"
 * "Executing the Login"
 * "Displaying the Dashboard"
-* "Creating Assignment"
+* "Creating an Assignment"
 * "Listing Assignments"
-* "Creating Project"
+* "Creating a Project"
 * "Listing Projects"
-* "Creating Message"
+* "Creating a Message"
+* "Delivering a Message"
 * "Listing Messages"
 * "Listing Urgent Stuff"
 
-These are 12 features from Landing Page to Dashboard, ordered in the "right"
+These are 13 features from Landing Page to Dashboard, ordered in the "right"
 order. Implementing them should give us work enough for the next few days,
 maybe even weeks. Let's move on.
 
