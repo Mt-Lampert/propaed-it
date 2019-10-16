@@ -2,7 +2,7 @@
 title: "Collect Features"
 date: 2019-10-12T11:41:16+02:00
 weight: 12
-draft: true
+draft: false
 ---
 
 

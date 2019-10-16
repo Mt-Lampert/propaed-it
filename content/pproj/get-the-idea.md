@@ -2,7 +2,7 @@
 title: "Get the Idea"
 date: 2019-10-09T17:09:15+02:00
 weight: 11
-draft: true
+draft: false
 ---
 
 It is as logical as it is essential to answer the most basic questions

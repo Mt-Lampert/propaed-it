@@ -2,7 +2,7 @@
 title: "Put Features In Order"
 date: 2019-10-15T20:59:50+02:00
 weight: 13
-draft: true
+draft: false
 ---
 
 Once we know about our features, it's a good idea to put them in the right
