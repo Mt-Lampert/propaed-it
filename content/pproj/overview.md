@@ -32,15 +32,16 @@ I just said we want to be pragmatic and professional about our projects. What do
 So what is it we have to do?
 
 
-0. [Get the idea](../01_get-the-idea)
-0. [Collect the features](../02_collect-features)
-0. [Put the features in order](../03_order-features)
+0. [Get the idea](../get-the-idea)
+0. [Collect the features](../collect-features)
+0. [Put the features in order](../put-features-in-order)
 0. Describe the features
+0. Describe the scenarios
 0. Approach the features
 0. Implement the features
 0. Refactor and beautify the features
 0. Connect the features
-0. Build the front window.
+0. Build the front window / landing page.
 0. Refactor and beautify the connections
 0. Beautify the project
 
