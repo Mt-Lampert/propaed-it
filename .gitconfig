@@ -1,0 +1,9 @@
+[user]
+	email = perrhh.comworld@gmail.com
+	name = PerrinHH
+[core]
+	editor = /usr/bin/nvim
+[cola]
+	spellcheck = false
+[credential]
+	helper = store
