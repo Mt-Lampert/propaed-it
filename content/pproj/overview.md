@@ -36,12 +36,14 @@ So what is it we have to do?
 0. [Collect the features](../collect-features)
 0. [Put the features in order](../put-features-in-order)
 0. Describe the features
-0. Describe the scenarios
-0. Approach the features
+    1. Collect the scenarios
+    0. Put the scenarios in order
+    0. Describe the scenarios     
 0. Implement the features
-0. Refactor and beautify the features
-0. Connect the features
-0. Build the front window / landing page.
-0. Refactor and beautify the connections
-0. Beautify the project
-
+    1. Begin with a failing end-to-end test
+    0. Describe the entities
+    0. Implement the entities in a test-driven manner
+    0. Make the end-to-end test work
+    0. Redo!
+0. Run all tests
+0. Deploy!
